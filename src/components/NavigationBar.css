@@ -1,0 +1,7 @@
+.navigationBox {
+  background-color: #a5b66e;
+  color: rgb(193, 70, 22);
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+}
