@@ -29,3 +29,10 @@ Follow these steps to install and run the project on your local environment:
    ```bash
    git clone https://github.com/your_user/news-app.git
    cd news-app
+
+
+## Authors ✒️  
+Catalina Baquerizo Lucero
+
+## License 📄  
+This project is licensed under the MIT License. See the LICENSE.md file for more details.
